@@ -11,16 +11,6 @@ Data Science student at the University of Milano-Bicocca. Passionate about turni
 
 📍 Milan, Italy · [LinkedIn](https://www.linkedin.com/in/amin-entezari-50153a250)
 
----
-
-## About me
-
-- 🎓 Studying Data Science @ Università degli Studi di Milano-Bicocca
-- 🤖 Interests: Machine Learning · Deep Learning · Business Intelligence · Computer Vision
-- 🌱 Currently working on image classification and clustering projects
-- 💼 Open to internship and graduate opportunities
-
----
 
 ## GitHub stats
 
