@@ -1,14 +1,24 @@
 # Hi, I'm Amin Entezari 👋
 
-Data Science student based in Milan, Italy. Interested in machine learning, computer vision, Business Intelligence and building things that solve real problems.
+Data Science student at the University of Milano-Bicocca. Passionate about turning data into insights through machine learning, deep learning, and business intelligence.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7B5EA7?style=flat)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1D9E75?style=flat)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-BA7517?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 📍 Milan, Italy · [LinkedIn](https://www.linkedin.com/in/amin-entezari-50153a250)
+
+---
+
+## About me
+
+- 🎓 Studying Data Science @ Università degli Studi di Milano-Bicocca
+- 🤖 Interests: Machine Learning · Deep Learning · Business Intelligence · Computer Vision
+- 🌱 Currently working on image classification and clustering projects
+- 💼 Open to internship and graduate opportunities
 
 ---
 
